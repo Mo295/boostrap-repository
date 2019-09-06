@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.red{
+    background-color: red;
+}
+    .bleu{
+    background-color:blue;
+    }
+    .yellow{
+    background-color:yellow;
+    }    
+    .green{
+    background-color:green;
+    }
+    .row{
+        text-align: center;
+    }
+    .lightbleu{
+        background-color: lightblue;
+        
+    }
+    .third{
+        height: 50vh;
+    }
+    
+    .box{
+        height: 30%;
+    }
